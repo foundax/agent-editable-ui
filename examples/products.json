@@ -1,0 +1,14 @@
+{
+  "cup-blue": {
+    "id": "cup-blue",
+    "title": "Blue ceramic cup",
+    "priceInCents": 2400,
+    "currency": "USD"
+  },
+  "tray-sand": {
+    "id": "tray-sand",
+    "title": "Sand-colored desk tray",
+    "priceInCents": 3200,
+    "currency": "USD"
+  }
+}
